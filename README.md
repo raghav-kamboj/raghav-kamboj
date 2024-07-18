@@ -2,7 +2,7 @@
 
 
 # Raghav kamboj 
-_*The mechanical coder*_
+_The mechanical coder_
 
 ## About me:
 I am currently pursuing a B.Tech in Mechanical Engineering at Guru Nanak Dev Engineering College, Ludhiana. My academic journey began at Police DAV Public School, Ludhiana, where I scored 91.4% in my 10th grade and 88.2% in the 12th non-medical stream.
