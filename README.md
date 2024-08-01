@@ -8,6 +8,9 @@ _The mechanical coder_
 
 1. [Excel Course](https://raghav-kamboj.github.io/raghav-kamboj-excel-course.github.io/)
 2. [GNDEC Student Induction Program](https://raghav-kamboj.github.io/GNDEC-SIP/)
+3. [OpenSCAD Tutorial](https://raghav-kamboj.github.io/OpenSCAD-tutorial/)
+4. [POV-Ray Tutorial](https://raghav-kamboj.github.io/POV-Ray)
+5. [PPS](https://raghav-kamboj.github.io/PPS/)
 
 
 ## About me:
